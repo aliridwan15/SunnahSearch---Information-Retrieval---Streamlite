@@ -1,6 +1,6 @@
 # 🕌 SunnahSearch - Information Retrieval (Streamlit Edition)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sunnah-search-engine.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sunnahsearch---information-retrieval.streamlit.app/)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
@@ -50,21 +50,19 @@ Berikut adalah tampilan antarmuka aplikasi **SunnahSearch**:
 
 ### 1. Tampilan Awal (Beranda)
 *Halaman utama dengan kolom pencarian yang bersih dan opsi filter.*
-<img width="1903" height="974" alt="image" src="https://github.com/user-attachments/assets/15c8d454-262e-42c0-84f8-45931c501bb8" />
-
+<img src="https://github.com/user-attachments/assets/15c8d454-262e-42c0-84f8-45931c501bb8" alt="Tampilan Awal SunnahSearch" width="800" />
 
 ---
 
 ### 2. Hasil Pencarian
 *Menampilkan teks Arab, Terjemahan, dan Skor Relevansi BM25.*
-<img width="1915" height="975" alt="image" src="https://github.com/user-attachments/assets/de06554b-660a-4fe7-a54d-b624dbd25ef3" />
+<img src="https://github.com/user-attachments/assets/de06554b-660a-4fe7-a54d-b624dbd25ef3" alt="Hasil Pencarian Hadits" width="800" />
 
 ---
 
 ### 3. Halaman Tentang
 *Informasi mengenai pengembang dan dataset.*
-<img width="1900" height="972" alt="image" src="https://github.com/user-attachments/assets/8f118d05-2309-4cfe-adde-0a4eb371180b" />
-
+<img src="https://github.com/user-attachments/assets/8f118d05-2309-4cfe-adde-0a4eb371180b" alt="Halaman Tentang" width="800" />
 
 ---
 
